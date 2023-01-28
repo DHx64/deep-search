@@ -1,0 +1,19 @@
+{
+  "name": "deep-search",
+  "version": "1.0.0",
+  "description": "Takes keyword and array and returns a filtered array using deep search through infinite nesting.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHx64/deep-search.git"
+  },
+  "author": "dionya_z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DHx64/deep-search/issues"
+  },
+  "homepage": "https://github.com/DHx64/deep-search#readme"
+}
